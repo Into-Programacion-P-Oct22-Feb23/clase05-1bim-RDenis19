@@ -22,7 +22,7 @@ public class Ejemplo2 {
         // declarar las variables
         String nombreAsignatura1;
         String nombreAsignatura2;
-        double notaAsignatura1;
+        double notaAsignatura1; 
         double notaAsignatura2;
         
         System.out.println("Ingrese nombre de asignatura 1");
